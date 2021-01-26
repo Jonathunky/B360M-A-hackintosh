@@ -12,6 +12,9 @@ Specs + changelog + EFI folder (if you need an example or want to use it with si
 ## Software
 - OpenCore 0.6.5
 - macOS Big Sur 11.1
+- ASUS UEFI v. 2811 + Latest Intel ME firmware
+- CFG Lock disabled in UEFI
+- Legacy RTC enabled in UEFI
 
 ## Installation
 Went smooth af, followed the usual [guide](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -28,12 +31,9 @@ Almost everything, including Unlock with Apple Watch, 4K/60/10 bit DisplayPort o
 
 ## What doesn't / to-do list
 - [ ] Pick the right audio layout (11?)
-- [ ] Fix hardware DRM & wireless Sidecar
-
-## Quirks (and features :D)
-Motherboard has latest UEFI firmware
-CFG Lock option is present in UEFI, so no patching was required
-There is also legacy RTC option, I should try to omit related SSDT
+- [ ] Fix hardware DRM
+- [ ] Fix wireless Sidecar
+- [ ] Fix RTC error on boot (suppressed for now)
 
 ## Backstory of this build
 I had an iMac 5K (Late 2015) in top-of-the-line-but-not-custom configuration: i5-6600, 16 GB DDR3-1866, Radeon R9 M395 2 GB, 2TB Fusion Drive (128 GB flash & 2 TB HDD).
