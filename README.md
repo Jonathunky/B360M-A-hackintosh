@@ -1,6 +1,8 @@
 # My Hackintosh build
 Specs + changelog + EFI folder (if you need an example or want to use it with similar hardware)
 
+This motherboard has a problem with a very slow wakeup from S3 sleep, it’s taking 8-10 seconds; I’ll have to find a new one and probably won’t update this repo anymore.
+
 ## Hardware
 - Board: ASUS Prime B360M-A
 - CPU: Intel Core i5-8400
@@ -10,30 +12,32 @@ Specs + changelog + EFI folder (if you need an example or want to use it with si
 - Wireless: Broadcom BCM94360CD (Fenvi T919) 
 
 ## Software
-- OpenCore 0.6.5
-- macOS Big Sur 11.1
+- OpenCore 0.6.6
+- macOS Big Sur 11.2
 - ASUS UEFI v. 2811 + Latest Intel ME firmware
 - CFG Lock disabled in UEFI
 - Legacy RTC enabled in UEFI
+- ALC layout 11; front & rear inputs & outputs work 
 
 ## Installation
 Went smooth af, followed the usual [guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 ## Performance
 - Subjective: as fast as it could ever get
-- Geekbench 5: [1004/5118](https://browser.geekbench.com/v5/cpu/5450060)
-- Geekbench 5 Compute: [22225](https://browser.geekbench.com/v5/compute/2179427)
-- Blackmagic Disk Speed Test: 2600 write/2900 read
+- Geekbench 5: [1070/5181](https://browser.geekbench.com/v5/cpu/6126282)
+- Geekbench 5 Compute: [22380](https://browser.geekbench.com/v5/compute/2304066)
+- Blackmagic Disk Speed Test: 2500 write/2800 read
 - Cinebench R23: 1017 single-core/5674 multi-core
 
 ## What works 
 Almost everything, including Unlock with Apple Watch, 4K/60/10 bit DisplayPort output, analog audio, sleep/wake, Wi-Fi and Bluetooth, AirDrop, Continuity, FileVault etc.
 
 ## What doesn't / to-do list
-- [ ] Pick the right audio layout (11?)
+- [ ] Find even better audio layout (rename devices)
 - [ ] Fix hardware DRM
 - [ ] Fix wireless Sidecar
 - [ ] Fix RTC error on boot (suppressed for now)
+- [ ] Fix slow wake ups
 
 ## Backstory of this build
 I had an iMac 5K (Late 2015) in top-of-the-line-but-not-custom configuration: i5-6600, 16 GB DDR3-1866, Radeon R9 M395 2 GB, 2TB Fusion Drive (128 GB flash & 2 TB HDD).

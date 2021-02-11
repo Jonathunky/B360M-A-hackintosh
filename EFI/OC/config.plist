@@ -46,6 +46,222 @@
 				<key>Path</key>
 				<string>SSDT-USBX.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-1.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-1.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-10.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-10.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-11.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-11.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-12.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-12.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-2.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-2.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-3.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-3.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-4.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-4.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-5.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-5.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-6.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-6.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-7.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-7.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-8.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-8.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-9.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-9.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-13.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-13.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-14.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-14.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-15.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-15.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-16.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-16.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-17.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-17.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-18.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-18.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-19.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-19.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-20.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-20.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-21.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-21.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-22.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-22.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-23.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-23.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-24.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-24.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-25.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-25.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-26.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-26.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -210,11 +426,6 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
-			<dict>
-				<key>layout-id</key>
-				<data>BQAAAA==</data>
-			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
@@ -853,7 +1064,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 igfxfw=2</string>
+				<string>keepsyms=1 debug=0x100 igfxfw=2 alcid=11</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -985,9 +1196,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>OpenHfsPlus.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
